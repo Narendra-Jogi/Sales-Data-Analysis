@@ -57,11 +57,11 @@ The dataset contains sales-related information including:
 
 ### Sales Analysis Chart
 
-![Monthly Sales Trend](Monthly Sales Trend.png)
+![Monthly Sales Trend](monthly-sales-trend.png)
 
 ### Profit Distribution Chart
 
-![Profit by Category](Profit by Category.png)
+![Profit by Category](profit-by-category.png)
 
 ---
 
